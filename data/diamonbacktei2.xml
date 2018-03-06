@@ -65,6 +65,8 @@
                  </monogr>
               </biblStruct>
               </listBibl>
+            </sourceDesc>
+            </fileDesc>
  <profileDesc>
           <langUsage>
               <language ident="en-US">United States English</language>
@@ -96,8 +98,8 @@
              </listPerson>
          </particDesc>
      </profileDesc>
-</sourceDesc>
-</fileDesc>
+
+
 
 </teiHeader>
 <text>
