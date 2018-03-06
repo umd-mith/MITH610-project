@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+<titleStmt>
+<title>Negroes on Campus: Integration at College Park</title>
+</titleStmt>
+<publicationStmt>
+<p>Publication Information</p>
+</publicationStmt>
+<sourceDesc>
+<p> Information about the source </p>
+</sourceDesc>
+</fileDesc>
+</teiHeader>
+<text>
+<body>
+  <cb/>
+<p>The Negro's advance into the <orgName>University</orgName>
+<!-- I find the way they say "The Negro" very interesting. It sounds like an animal documentary-->
+was slow, but in the 1950's his pace quick­
+ened. <persName>Parren J. Mitchell</persName>, a Negro gradu­
+ate student in sociology, had applied to the
+<orgName>University</orgName> in August of 1950. <persName>Mitchell</persName> was
+accepted with the tacit understanding that
+he attend classes in <placeName>Baltimore</placeName>--not in
+<placeName>College Park</placeName>.</p>
+<p>These “regrettable* situations came
+to a close in the early fifties. Slowly,
+the Board of Regents and the Supreme
+Court passed holdings liberalizing edu­
+cation facilities.</p>
+<p>In May of 1954, the U.S. Supreme Court
+struck down the ‘‘separate but equal,""
+doctrine and held that public education
+institutions must be integrated (Brown
+v. Board of Education). The following
+month the Board of Regents unanimously
+passed the motion that "all qualified stu­
+dents resident of <placeName>Maryland</placeName> may apply
+for admission to the <orgName>University</orgName> in all
+of its schools."</p>
+<p> In 1955, following the embarrassing
+incident with the D.C. Recreation Depart­
+ment, the Board moved to extend the <cb/>
+non-racial policy to out-of-state appli­
+cants. </p>
+<p>The <orgName>University</orgName> at last had an integrated
+admissions policy. It was twenty years
+since <persName>Donald Gaines Murray</persName> had appealed
+his case for admission to the <orgName>University
+Law School</orgName>. It was four years since a
+Negro student had entered <orgName>College park</orgName>.</p>
+<p>Now that the policy gates had opened,
+how was integration effected within the
+<placeName>College park</placeName> campus? Integration was a
+reality on paper, but socially and ad­
+ministratively the Negro was still feeling
+his way. The Negro and the fourteenth
+amendment were yet to expand. </p>
+<p>The conclusion was “yes, there ought
+to be discussion,” The Court ruled in
+<persName>Mitchell’s</persName> favor, declaring that “counsel
+shows certain advantages in studying at
+<orgName>College park</orgName>. . .weekly seminars are
+more profitable in large classes."</p>
+<p>While <persName>Mitchell</persName> set to work for his
+Masters degree a State investigative
+body, the <orgName>Weglein Commission</orgName>, looked
+into “Negro Higher Education in the
+State.” Finding a wide disparity between
+Negro and white educational facilities,
+the Committee proposed that the “State
+admit Negroes to graduate and profes­
+sional schools when it was impractical<cb/>
+to offer equal education opportunities at
+separate Negro institutions."</p>
+<p>The State’s last-minute programs to
+step up separate Negro education facili­
+ties apparently were not advancing fast
+enough to combat the drive toward inte­-
+gration. The Board of Regents examined
+the Weglein recommendations and in
+April, 1951, the Board promulgated a new
+racial policy:</p>
+<p>In the future all resident applicants
+within the <placeName>state</placeName>, regardless of race, color
+or creed, were to be considered for
+admission to the professional schools
+in <placeName>Baltimore</placeName> on an equal basis with
+white applicants.</p>
+<p>In line with this policy ruling, in
+May of that year, two Negroes were ad­
+mitted to the <orgName>Medical School</orgName>, an institu­
+tion that had been white for 144 years.</p>
+<p>The new integration policy ran smooth­
+ly for several months, until another
+hassle arose in July, 1952. <persName>Wendall A.
+Paris</persName>, assistant athletic director to the
+<orgName>D.C. Public Schools</orgName> and a Negro, was
+denied admission to a summer school
+graduate course in <placeName>College park</placeName>.</p>
+<p><orgName>The University</orgName> apologized to <persName>Paris</persName>,
+but informed that the school’s policy of <cb/>
+accepting Negro students did not apply
+to out-of-state applicants. If <persName>Paris</persName> had
+been white, he would have been accepted.</p>
+<p>In 1955 a similar incident occurred.
+<orgName>The University</orgName> had invited members of
+the <orgName>D.C. Recreation Department</orgName> to take
+a summer course at <placeName>College park</placeName>. Ten
+workers applied. All were initially ac­
+cepted.</p>
+<p>However, six of these applications
+were from Negroes, and when the Uni­
+versity administration realized this,
+those applicants were rejected. They
+were returned their money and informed
+that the school did not admit out-of-state
+Negroes.</p>
+<p>In protest, the Recreation Superintend­
+ent withdrew the four other white appli­
+cants.</p>
+<p>The Board of Regents, commenting
+on the incident, said that the situation
+was “regrettable." The Board would
+make efforts to negotiate for such
+a course for D.C. employees within the
+District.</p>
+<p>"We hadn’t accepted Negroes before,
+but there wasn’t anything the matter with
+this application," recalls <persName>Harold <pb/>
+Hoffsomer</persName>, former head of the
+Department of Sociology.</p>
+<p>“The President <persName>(Byrd)</persName> said our
+policy was to give them equal
+opportunities. We would give
+them chances to get their educa­
+tion, but we wouldn't do it on the
+campus in <placeName>College Park</placeName>."</p>
+<cb/>
+<p>“This man wanted to major In
+sociology," continued <choice> <sic>Hoffsomar</sic> <corr>Hoffsomer</corr></choice>,
+•and I told <persName>President Byrd</persName> at the
+time that one of the required
+courses in sociology was my
+methods in sociological research
+and that course wasn’t given in
+<placeName>Baltimore</placeName>."</p>
+<p>He further told <persName>Byrd</persName> that, “if
+we wanted to make things equal...
+I would have to give the course
+myself. I told President <persName>Byrd</persName>
+It would cost money, but he said
+okay."</p>
+<p>Consequently, the methodology
+class--a seminar course--was
+included in the Baltimore Cam­
+pus, <orgName>University College</orgName> curricul­
+um for the fall semester, 1950.</p>
+<p><persName>Mitchell</persName>, however, was not
+pleased that "separate but equal"
+accommodations had been ar­
+ranged especially for him. In
+Sept., 1950, he took his grievances
+to court, and in “Mitchell
+v. Byrd," he claimed that because
+of his skin color he was being
+“denied advantages of associa­
+tion with other students."</p>
+<p>He was the only student regis­
+tered for the methodology class
+in <placeName>Baltimore</placeName>. He felt the crea­
+tion of a “one-man seminar" un­
+just.</p>
+<p>In court, <persName>Ronald Bamford</persName>, Dean
+of the Graduate School, testified
+that, “there is no question that if
+he <persName>(Mitchell)</persName> had been a white
+man, he could have been assigned
+as a student at <placeName>College Park</placeName>.</p>
+</body>
+</text>
+</TEI>
+<!-- hard to know how to encode words like Negro which has different meanings in different sentences -->

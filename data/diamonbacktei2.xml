@@ -1,0 +1,220 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.tei-c.org/Vault/P5/current/xml/tei/custom/schema/relaxng/tei_all.rng" type="application/xml" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<teiHeader>
+<fileDesc>
+  <titleStmt>
+    <title type="main"> Blacks left out of medical picture</title>
+    <title type="sub">Digital Edition</title>
+    <author>
+      <persName xml:id="AT">
+        <forename>Alex</forename>
+        <surname>Thomas</surname>
+      </persName>
+      <orgName xml:id="AADHUM">African American History, Culture, and Digital Humanities (AADHum)</orgName>
+    </author>
+    <respStmt> <!-- Take note that each person/responsibility gets its own responsibility statement. Responsibility statements provide an opportunity to make visible the workflow and shared labor of a project -->
+                <resp>Encoded by</resp>
+                <persName ref="#AT">
+                    <forename>Alex</forename>
+                    <surname>Thomas</surname>
+                </persName>
+            </respStmt>
+            <respStmt>
+                <resp>Original TEI template provided by</resp>
+                <persName xml:id="RV">Raffaele Viglianti</persName>
+                <persName xml:id= "JLU"> Jessica Lu </persName>
+            </respStmt>
+            <respStmt>
+                <resp>Student newspapers archived and provided by</resp>
+                <orgName xml:id="UA">University Archives
+                    <placeName>University of Maryland
+                        <settlement>College Park</settlement>
+                        <region>Maryland</region>
+                    </placeName>
+                </orgName>
+            </respStmt>
+</titleStmt>
+<publicationStmt>
+<p>Publication Information</p>
+</publicationStmt>
+<sourceDesc>
+             <listBibl>
+             <biblStruct>
+                 <analytic>
+                     <title>Black left out of medical picture</title>
+                     <author>
+                         <persName xml:id="CS">Charles Sneiderman</persName>
+                         <persName xml:id="JB">Jeffery Blum</persName>
+                     </author>
+                 </analytic>
+                 <monogr>
+                     <title level="j">The Diamondback</title>
+                     <imprint>
+                         <publisher>Maryland Media Inc.</publisher>
+                         <pubPlace>
+                             <region>College Park</region>
+                             <settlement>Maryland</settlement>
+                         </pubPlace>
+                         <date when="1968-09-19">September 19, 1968</date>
+                     </imprint>
+                     <biblScope unit="volume">LXI</biblScope>
+                     <biblScope unit="number">5</biblScope>
+                     <biblScope unit="page">9</biblScope>
+                 </monogr>
+              </biblStruct>
+              </listBibl>
+ <profileDesc>
+          <langUsage>
+              <language ident="en-US">United States English</language>
+          </langUsage>
+          <particDesc>
+
+              <listOrg>
+                  <org>
+                    <orgName xml:id="UMD" ref="https://lccn.loc.gov/n79054042">University of Maryland, College Park</orgName>
+                      <idno type="LCAF">n79054042</idno>
+                      <placeName>
+                          <settlement>College Park</settlement>
+                          <region>Maryland (<abbr>M.D.</abbr>)</region>
+                          <country>United States of America (<abbr>U.S.A.</abbr>)</country>
+                      </placeName>
+                  </org>
+                </listOrg>
+                <listPerson>
+                    <person>
+                    </person>
+                    <personGrp>
+                     <persName xml:id="BLK">Black and African American people</persName>
+                     <note>This person group is necessary for the reading and interpretation of this text, as this text often uses "the negro" (gendered male) to generalize about all black and African Americans.</note>
+                 </personGrp>
+                 <personGrp>
+                     <persName xml:id="USM">University System of Maryland (<abbr>U.S.M.</abbr>) Board of Regents</persName>
+                     <note>The Board of Regents is comprised of 17 members, including 1 full-time student. Appointed by the Governor of Maryland, the Board oversees the university system's academic, administrative, and financial operations.</note>
+                 </personGrp>
+             </listPerson>
+         </particDesc>
+     </profileDesc>
+</sourceDesc>
+</fileDesc>
+
+</teiHeader>
+<text>
+<body>
+  <cb/>
+<p>The serious shortage of physicians and
+dentists this <placeName>nation</placeName> faces is a fact ac­
+knowledged by federal experts and public
+alike. However, one of the least known
+aspects of this problem is the appalling
+shortage of black physicians and dentists.</p>
+<p>Among white Americans, one out of
+every 670 is a physician but among black</p>
+<!-- There is a picture in the middle of the paragraph -->
+<p>Americans, only one in 5,000 practices
+medicine. Whereas there is one dentist
+for every 1,750 Americans there is only
+one black dentist for every 10,000 black
+Americans.</p>
+<p>The crux of the problem is that there
+<cb/>
+are far too few black college students
+who enter medical and dental schools.
+There appear to be four principal rea­
+sons that these schools are not attract­
+ing a sufficient number of qualified <persName ref="#BLK">Negro</persName>
+applicants.</p>
+<p>The first reason is that among Negro
+college students, many lack the life-long
+academic preparation necessary to
+pursue the highly demanding and com­
+petitive pre-dental and pre-medical cur­
+ricula.</p>
+<p>Secondly, a lack of communication ex­
+ists between medical and dental schools
+and black undergraduates, resulting in a
+belief among the latter that racial origin
+is a serious deterrent to a career in med­
+icine or dentistry.</p>
+<p>The third reason is that many black
+students feel the cost of dental or med­
+ical education would be prohibitive.</p>
+<p>The fourth is that many black students
+are unaware of the opportunities which
+would be opened to them as physicians
+and dentists.</p>
+<p>We feel that these four reasons should
+not deter any black student on this cam­
+pus from the attainment of worthwhile
+careers in dentistry or medicine.</p>
+<p>For the black student who finds his
+background inadequate in any subject, he
+can readily obtain tutoring assistance by
+<cb/>
+contacting his instructor, the study skills
+program of the <orgName>Counseling Center</orgName>; the
+freshman hoaoraries, <orgName>Phi Eta Sigma</orgName> and
+<orgName>Alpha Lambda Delta</orgName>; the honors dorms,
+<placeName>Cambridge A</placeName> and <placeName>Hagerstown 5th</placeName>; the
+Junior affiliates of the <orgName>American Chem­
+ical Society</orgName> and other departmental hon­
+oraries.</p>
+<p>For the black student who is concerned
+about any problem he might encounter as
+a Negro applicant, the <orgName>Pre-Dental and
+Pre-Medical societies</orgName> will offer their
+assistance in obtaining pertinent and re­
+liable information.</p>
+<p>Concerning racial discrimination in
+medicine, we quote an article from
+<orgName>Ebony</orgName> magazine:</p>
+<p>The various clinical colleges and
+academies, like the <orgName>American College
+of Surgeons</orgName> and the <orgName>American Col­
+lege of Physicians</orgName> have practically
+eliminated their racial bars so that
+Negro physicians are admitted just as
+others, as soon as properly qualified
+and sponsored.</p>
+<p>Similarly, the various specialty
+boards certify Negro physicians as
+specialists without restriction when
+they have met the respective training
+requirements and passed the examin­
+ations.</p>
+<p>For the black student who needs finan­
+cial assistance, there are numerous
+awards available from professional
+schools, medical societies, Federal and
+state governments, and various other
+sources.</p>
+<p>Again quoting from <orgName>Ebony</orgName>, "Today
+there are more medical school openings
+available to Negro students than there can
+be found qualified applicants to fill." For
+example, <orgName>Harvard Medical School</orgName> plans
+to provide at least 15 scholarships per
+class for disadvantaged students.</p>
+<p>For the black student, a career in den­
+tistry or medicine offers the opportunity
+for a constructive role in attaining social,
+economic, and political equality in any
+community.</p>
+<p><roleName>President</roleName> <persName>Johnson</persName> proclaimed to mem­
+bers of the <orgName> National Medical Associa­
+tion</orgName> in a recent address that Negro
+professional men must be their "broth­
+ers' keepers" and "...must provide the
+leadership, the brains and courage."</p>
+<!-- How is it their responsibilty for your lack of outreach? -->
+<p>The <orgName>Pre-Dental and Pre-Medical so­
+cieties</orgName> strongly urge any black students
+interested in these professions to in­
+vestigate our programs.</p>
+<p><persName ref="#CS">Charles Sneiderman</persName>
+<persName ref="#JB">Jeffery Blum</persName>
+Pre-Medical societies and Pre-Dental</p>
+</body>
+</text>
+</TEI>
