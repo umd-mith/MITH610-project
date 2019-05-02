@@ -13,16 +13,22 @@
 
   <body>
     <h1>My project</h1>
-    <div id="description">My 500 words.</div>
+    <div id="description">
+<p>To begin, it is important to talk about why I chose these two articles for my encoding. I chose the first because with the recent racial attacks on campus, I was curious about the history of being black at the University of Maryland. The first article on integration to campus provided a, outlook into not only the history of integration on campus but also how black people used to be treated and talked about during that time. The second article provides a good comparison to the first in terms of how black people were being integrated into campus during the actual time the article was written and shows a change in how black people were being talked about at that time. </p>
+<p>During the encoding process I decided to keep the articles, for the most part, exactly as they were in terms of format and word choice. I felt that keeping the words and format the same, made it easier to contrast the articles to my own thoughts and the words that I had highlighted. When I went into coding these two articles, my thoughts were focused on the choice of words that the two articles employ. Through encoding, you focus more on what words means, but most importantly on what the author means through their words. While doing my encoding, I came to the realization that my interpretation of these words as an African American queer person may be different than how the authors intended their words to be taken. I have highlighted such words and phrases in red during my encoding of the articles. I also highlighted in red the words and phrases that show the narrative I found between the two articles.</p>
+
+<p>I will give an example by briefly discussing why I highlighted a couple words that I did. The first words are contained in the titles of the articles and I think they are the most important distinction between the two articles that details the progress that the authors perceive to have happened in terms of the integration of black people to campus. The words are “the Negro” and “Blacks”. Despite the second article only being written a year and a half after the first, this change of words speaks volumes. The word “blacks” or “black” makes no appearance in the first article. So, what changed between the two articles? For me, the change is the audience. While the first is merely trying to detail the history of black people being allowed at UMD, the second is trying to get those people to apply for medical and dentistry programs. While someone else, maybe even the author, would see this as a sign of progress in terms of acceptance, I see it as a change in goal and nothing more due to other word choices in the rest of the second article. Due to interpretations like this, I believe that these articles could be useful for someone that wanted to create a narrative surrounding the way that black people experienced the University of Maryland campuses in comparison to how others perceived their integration to be like.
+</p>
+    </div>
     <div id="article1"></div>
     <div id="article2"></div>
     <script>
       var c1 = new CETEI()
-      c1.getHTML5("data/example.xml", function(data) {
+      c1.getHTML5("data/teiofdiamondback1.xml", function(data) {
        document.getElementById("article1").appendChild(data)
       })
       var c2 = new CETEI()
-      c2.getHTML5("data/example.xml", function(data) {
+      c2.getHTML5("data/diamonbacktei2.xml", function(data) {
        document.getElementById("article2").appendChild(data)
       })
     </script>
